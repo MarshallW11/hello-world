@@ -1,3 +1,3 @@
 # hello-world
 Practice and New Ideas
-this is my fir repository as I learn hwo to code and utilize github
+this is my first repository as I am learning how to code. 
